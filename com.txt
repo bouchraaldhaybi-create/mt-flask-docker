@@ -1,6 +1,0 @@
-Dockerfile
-app.py
-requirements.txt
-models/
-templates/
-static/
